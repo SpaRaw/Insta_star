@@ -1,0 +1,955 @@
+1636365291400	geckodriver	INFO	Listening on 127.0.0.1:49400
+1636365294503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileFwt9LZ"
+1636365295681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileFwt9LZ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1636365299024	Marionette	INFO	Listening on port 49408
+1636365299357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636365306533	Marionette	INFO	Stopped listening on port 49408
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636386468220	geckodriver	INFO	Listening on 127.0.0.1:50558
+1636386471444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileFth0yn"
+1636386472320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileFth0yn\\search.json.mozlz4", (void 0)))
+1636386474622	Marionette	INFO	Listening on port 50566
+1636386474696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636386482039	Marionette	INFO	Stopped listening on port 50566
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636386571533	geckodriver	INFO	Listening on 127.0.0.1:50729
+1636386574672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileKf6iam"
+1636386575354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileKf6iam\\search.json.mozlz4", (void 0)))
+1636386577428	Marionette	INFO	Listening on port 50737
+1636386578571	Marionette	INFO	Stopped listening on port 50737
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636386580325	geckodriver	INFO	Listening on 127.0.0.1:50768
+1636386583426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileU7rLgk"
+1636386583845	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileU7rLgk\\search.json.mozlz4", (void 0)))
+1636386585725	Marionette	INFO	Listening on port 50776
+1636386586098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636386606987	Marionette	INFO	Stopped listening on port 50776
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636386843356	geckodriver	INFO	Listening on 127.0.0.1:50877
+1636386846471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile3R7hfa"
+1636386847011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile3R7hfa\\search.json.mozlz4", (void 0)))
+1636386848856	Marionette	INFO	Listening on port 50885
+1636386849148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636386903054	Marionette	INFO	Stopped listening on port 50885
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636387809734	geckodriver	INFO	Listening on 127.0.0.1:52356
+1636387812873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilerMtxwG"
+1636387813868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilerMtxwG\\search.json.mozlz4", (void 0)))
+1636387816263	Marionette	INFO	Listening on port 52364
+1636387816576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636388010265	Marionette	INFO	Stopped listening on port 52364
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileYmSVgg"
+1636387925687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileYmSVgg\\search.json.mozlz4", (void 0)))
+1636387927967	Marionette	INFO	Listening on port 58557
+1636387928093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1636393147462	Marionette	INFO	Stopped listening on port 58557
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636389046944	Marionette	INFO	Stopped listening on port 51777
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileLj3row"
+1636388870483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileLj3row\\search.json.mozlz4", (void 0)))
+1636388872872	Marionette	INFO	Listening on port 56215
+1636388872954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636388902681	Marionette	INFO	Stopped listening on port 56215
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636388954492	geckodriver	INFO	Listening on 127.0.0.1:55138
+1636388957677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile3p8fz0"
+1636388958652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile3p8fz0\\search.json.mozlz4", (void 0)))
+1636388962505	Marionette	INFO	Listening on port 65132
+1636388962537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636389047689	Marionette	INFO	Stopped listening on port 65132
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636389087623	geckodriver	INFO	Listening on 127.0.0.1:53378
+1636389090716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile21SDuX"
+1636389091223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile21SDuX\\search.json.mozlz4", (void 0)))
+1636389093324	Marionette	INFO	Listening on port 65280
+1636389093400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636389661677	Marionette	INFO	Stopped listening on port 65280
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.child4/domnode68, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:289:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:952:38
+walkerLoop@resource://gre/modules/Promise-backend.js:836:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:766:19
+schedulePromise@resource://gre/modules/Promise-backend.js:800:12
+completePromise@resource://gre/modules/Promise-backend.js:732:12
+
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+tack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636389662629	Marionette	INFO	Stopped listening on port 49326
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.child4/domnode68, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:289:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:91636389663440	Marionette	INFO	Stopped listening on port 52960
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+:800:12
+completePromise@resource://gre/modules/Promise-backend.js:732:12
+
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636389674445	geckodriver	INFO	Listening on 127.0.0.1:57495
+1636389677512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileRbBXhG"
+1636389678034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileRbBXhG\\search.json.mozlz4", (void 0)))
+1636389679974	Marionette	INFO	Listening on port 57504
+1636389680187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636389706470	Marionette	INFO	Stopped listening on port 57504
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636389708461	geckodriver	INFO	Listening on 127.0.0.1:55422
+1636389711544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileSTECm3"
+1636389712005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileSTECm3\\search.json.mozlz4", (void 0)))
+1636389713865	Marionette	INFO	Listening on port 55430
+1636389714231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636390081647	Marionette	INFO	Stopped listening on port 55430
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.child4/domnode78, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:289:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:952:38
+walkerLoop@resource://gre/modules/Promise-backend.js:836:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:766:19
+schedulePromise@resource://gre/modules/Promise-backend.js:800:12
+completePromise@resource://gre/modules/Promise-backend.js:732:12
+
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+MC6"
+1636389961901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileYBhMC6\\search.json.mozlz4", (void 0)))
+1636389964035	Marionette	INFO	Listening on port 61532
+1636389964459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636389976967	Marionette	INFO	Stopped listening on port 61532
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636390699300	geckodriver	INFO	Listening on 127.0.0.1:60953
+1636390702501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilet91sgv"
+1636390703297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilet91sgv\\search.json.mozlz4", (void 0)))
+1636390705713	Marionette	INFO	Listening on port 60962
+1636390706227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636390717390	Marionette	INFO	Stopped listening on port 60962
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636390760768	geckodriver	INFO	Listening on 127.0.0.1:53799
+1636390763847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileNWhZBF"
+1636390764380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileNWhZBF\\search.json.mozlz4", (void 0)))
+1636390766695	Marionette	INFO	Listening on port 53807
+1636390767050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+1636390786446	Marionette	INFO	Stopped listening on port 53807
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636390921753	geckodriver	INFO	Listening on 127.0.0.1:62816
+1636390924926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileolvZuU"
+1636390925612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileolvZuU\\search.json.mozlz4", (void 0)))
+1636390928232	Marionette	INFO	Listening on port 62825
+1636390928665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636390940642	Marionette	INFO	Stopped listening on port 62825
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636391060956	geckodriver	INFO	Listening on 127.0.0.1:61253
+1636391064070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileDfuHPr"
+1636391064740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileDfuHPr\\search.json.mozlz4", (void 0)))
+1636391067141	Marionette	INFO	Listening on port 61262
+1636391067275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636394416967	Marionette	INFO	Stopped listening on port 61262
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofilebLULtH"
+1636393533514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilebLULtH\\search.json.mozlz4", (void 0)))
+1636393535785	Marionette	INFO	Listening on port 55016
+1636393535978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636394418388	Marionette	INFO	Stopped listening on port 55016
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+szaiF\\search.json.mozlz4", (void 0)))
+1636393644307	Marionette	INFO	Listening on port 51555
+1636393644641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636394425599	Marionette	INFO	Stopped listening on port 51555
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilemFeXz2\\search.json.mozlz4", (void 0)))
+1636393797839	Marionette	INFO	Listening on port 51873
+1636393798245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636394421847	Marionette	INFO	Stopped listening on port 51873
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileCecu3H\\search.json.mozlz4", (void 0)))
+1636393955772	Marionette	INFO	Listening on port 64771
+1636393955890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636394423927	Marionette	INFO	Stopped listening on port 64771
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileDszMey"
+1636394237060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileDszMey\\search.json.mozlz4", (void 0)))
+1636394239465	Marionette	INFO	Listening on port 55330
+1636394239968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+Sour1636394420112	Marionette	INFO	Stopped listening on port 55421
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636394410448	Marionette	INFO	Stopped listening on port 55330
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636394719997	geckodriver	INFO	Listening on 127.0.0.1:65142
+1636394723078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileZhbBOm"
+1636394723898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileZhbBOm\\search.json.mozlz4", (void 0)))
+1636394726079	Marionette	INFO	Listening on port 65151
+1636394726264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636394755656	Marionette	INFO	Stopped listening on port 65151
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636394759297	geckodriver	INFO	Listening on 127.0.0.1:65226
+1636394762371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileEQIN6q"
+1636394762882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileEQIN6q\\search.json.mozlz4", (void 0)))
+1636394764776	Marionette	INFO	Listening on port 65244
+1636394765039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636395037721	Marionette	INFO	Stopped listening on port 65244
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileFAM7QS\\search.json.mozlz4", (void 0)))
+1636394831422	Marionette	INFO	Listening on port 53906
+1636394831613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636394849294	Marionette	INFO	Stopped listening on port 53906
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636394855245	geckodriver	INFO	Listening on 127.0.0.1:53995
+1636394858323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile7qqIWf"
+1636394858851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile7qqIWf\\search.json.mozlz4", (void 0)))
+1636394860867	Marionette	INFO	Listening on port 54004
+1636394861007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636395035689	Marionette	INFO	Stopped listening on port 54004
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.child4/domnode67, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:289:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:952:38
+walkerLoop@resource://gre/modules/Promise-backend.js:836:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:766:19
+schedulePromise@resource://gre/modules/Promise-backend.js:800:12
+completePromise@resource://gre/modules/Promise-backend.js:732:12
+
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636395041693	geckodriver	INFO	Listening on 127.0.0.1:54378
+1636395044773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilew7wFCt"
+1636395045283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilew7wFCt\\search.json.mozlz4", (void 0)))
+1636395047971	Marionette	INFO	Listening on port 54387
+1636395048469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636395319036	Marionette	INFO	Stopped listening on port 54387
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileZMPXJ6"
+1636395178177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileZMPXJ6\\search.json.mozlz4", (void 0)))
+1636395180213	Marionette	INFO	Listening on port 62770
+1636395180344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 10140, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1636395315248	Marionette	INFO	Stopped listening on port 62771636395317319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileZx8jTk"
+1636395318275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileZx8jTk\\search.json.mozlz4", (void 0)))
+1636395320404	Marionette	INFO	Listening on port 61035
+1636395320527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636395384379	Marionette	INFO	Stopped listening on port 61035
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to senconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilereDQm1\\search.json.mozlz4", (void 0)))
+1636395386714	Marionette	INFO	Listening on port 49376
+1636395386882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636395418652	Marionette	INFO	Stopped listening on port 49376
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to senconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile8Kt17e\\search.json.mozlz4", (void 0)))
+1636395420149	Marionette	INFO	Listening on port 49483
+1636395420445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636395535374	Marionette	INFO	Stopped listening on port 49483
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 103: Error: Connection closed, pending request to server0.conn0.child4/domnode70, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:289:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:91636395749610	Marionette	INFO	Stopped listening on port 64672
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+rce://gre/modules/Promise-backend.js:766:19
+schedulePromise@resource://gre/modules/Promise-backend.js:800:12
+completePromise@resource://gre/modules/Promise-backend.js:732:12
+
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636395744644	geckodriver	INFO	Listening on 127.0.0.1:52325
+1636395747746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileGlfzYr"
+1636395748228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileGlfzYr\\search.json.mozlz4", (void 0)))
+1636395750211	Marionette	INFO	Listening on port 52333
+1636395750428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636396293778	Marionette	INFO	Stopped listening on port 52333
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileMOau6E\\search.json.mozlz4", (void 0)))
+1636395861429	Marionette	INFO	Listening on port 61371
+1636395861520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636396292059	Marionette	INFO	Stopped listening on port 61371
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofilekkKWos"
+1636396213119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilekkKWos\\search.json.mozlz4", (void 0)))
+1636396215239	Marionette	INFO	Listening on port 53474
+1636396215298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636396290795	Marionette	INFO	Stopped listening on port 53471636396293129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilejleHq8"
+1636396293745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilejleHq8\\search.json.mozlz4", (void 0)))
+1636396295867	Marionette	INFO	Listening on port 58964
+1636396296301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636396713784	Marionette	INFO	Stopped listening on port 58964
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636471462828	geckodriver	INFO	Listening on 127.0.0.1:61311
+1636471465934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileE8rrgr"
+1636471466654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileE8rrgr\\search.json.mozlz4", (void 0)))
+1636471471869	Marionette	INFO	Listening on port 61319
+1636471472318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1151:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1376:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1099:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:628:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1151, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1151))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1151:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1376:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1099:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:628:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1151, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1151))
+1636471633097	Marionette	INFO	Stopped listening on port 61319
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636471639209	geckodriver	INFO	Listening on 127.0.0.1:61620
+1636471642276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileKdgZY6"
+1636471642693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileKdgZY6\\search.json.mozlz4", (void 0)))
+1636471644398	Marionette	INFO	Listening on port 61628
+1636471644442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2942: TypeError: event.target.closest is not a function
+1636472208159	Marionette	INFO	Stopped listening on port 61628
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ent	WARN	TLS certificate errors will be ignored for this session
+1636472205433	Marionette	INFO	Stopped listening on port 61998
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofile1BWAzd"
+1636472031982	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile1BWAzd\\search.json.mozlz4", (void 0)))
+1636472033785	Marionette	INFO	Listening on port 62093
+1636472034220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636472203227	Marionette	INFO	Stopped listening on port 62093
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileKvGEGa"
+1636472077717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileKvGEGa\\search.json.mozlz4", (void 0)))
+1636472079347	Marionette	INFO	Listening on port 62191
+1636472079414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636472097883	Marionette	INFO	Stopped listening on port 62191
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636472160242	geckodriver	INFO	Listening on 127.0.0.1:62276
+1636472163328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilezeobuW"
+1636472163772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilezeobuW\\search.json.mozlz4", (void 0)))
+1636472165392	Marionette	INFO	Listening on port 62284
+1636472165475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636472445925	Marionette	INFO	Stopped listening on port 62284
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636472451762	geckodriver	INFO	Listening on 127.0.0.1:62501
+1636472454869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile0zthYz"
+1636472455251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile0zthYz\\search.json.mozlz4", (void 0)))
+1636472456985	Marionette	INFO	Listening on port 62509
+1636472457045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636472465471	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636474983009	Marionette	INFO	Stopped listening on port 62509
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileeLkrV9\\search.json.mozlz4", (void 0)))
+1636474936571	Marionette	INFO	Listening on port 63484
+1636474937014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636474985527	Marionette	INFO	Stopped listening on port 63484
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilecSCpgi\\search.json.mozlz4", (void 0)))
+1636474984608	Marionette	INFO	Listening on port 63578
+1636474984641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new Error("Connection closed, pending request to server0.conn0.child168/domnode40, type getAllSelectors failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1447:32\nonNewSelection@resource://devtools/client/inspector/inspector.js:1518:10\n_emit@resource://devtools/shared/event-emitter.js:244:34\nemit@resource://devtools/shared/event-emitter.js:190:18\nemit@resource://devtools/shared/event-emitter.js:342:18\nsetNodeFront@resource://devtools/client/framework/selection.js:161:10\nonRootNodeAvailable@resource://devtools/client/inspector/inspector.js:332:22\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: (new Error("Connection closed, pending request to server0.conn0.child168/pagestyle24, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:177:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:217:18\nonNewSelection@resource://devtools/client/inspector/boxmodel/box-model.js:287:10\n_emit@resource://devtools/shared/event-emitter.js:244:34\nemit@resource://devtools/shared/event-emitter.js:190:18\nemit@resource://devtools/shared/event-emitter.js:342:18\nsetNodeFront@resource://devtools/client/framework/selection.js:161:10\nonRootNodeAvailable@resource://devtools/client/inspector/inspector.js:332:22\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: (new Error("Connection closed, pending request to server0.conn0.child168/domwalker23, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nchildren@resource://devtools/client/fronts/walker.js:338:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2312:34\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: (new Error("Connection closed, pending request to server0.conn0.child168/domwalker23, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nchildren@resource://devtools/client/fronts/walker.js:338:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2312:34\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: (new Error("Connection closed, pending request to server0.conn0.child168/domwalker23, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nchildren@resource://devtools/client/fronts/walker.js:338:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2312:34\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: (new Error("Can not send request 'supportsHighlighters' because front 'inspector' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: "stylesheets: fetch failed for https://www.instagram.com/static/bundles/es6/Consumer.css/1339c2e071e0.css, using system principal instead."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet."
+console.error: (new TypeError("InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet.", "resource://devtools/server/actors/style-rule.js", 157))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1151:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1376:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1099:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:628:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1151, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1151))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1151:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1376:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1099:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:628:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1151, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1151))
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1636475349798	Marionette	INFO	Stopped listening on port 63578
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636475512781	geckodriver	INFO	Listening on 127.0.0.1:63915
+1636475515868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilerAkleY"
+1636475516247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilerAkleY\\search.json.mozlz4", (void 0)))
+1636475517978	Marionette	INFO	Listening on port 63923
+1636475518047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1636475676044	Marionette	INFO	Stopped listening on port 63923
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileCp2Gx5"
+1636475673449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileCp2Gx5\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: policy is null"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine google@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636475678369	geckodriver	INFO	Listening on 127.0.0.1:64055
+1636475681448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile0OpwFc"
+1636475681801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile0OpwFc\\search.json.mozlz4", (void 0)))
+1636475683464	Marionette	INFO	Listening on port 64063
+1636475683523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636478693016	Marionette	INFO	Stopped listening on port 64063
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileasGkvc\\search.json.mozlz4", (void 0)))
+1636475767232	Marionette	INFO	Listening on port 64151
+1636475767335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1052"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1052:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:625:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1052, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1151:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1376:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1099:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:628:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:734:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1151, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1151))
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1636486529927	Marionette	INFO	Stopped listening on port 64151
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1636566394319	geckodriver	INFO	Listening on 127.0.0.1:51983
+1636992720419	geckodriver	INFO	Listening on 127.0.0.1:55135
+1636992723617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileJwzvrS"
+1636992756821	geckodriver	INFO	Listening on 127.0.0.1:55329
+1636992759863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile795b16"
+1636992760339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile795b16\\search.json.mozlz4", (void 0)))
+1636992762623	Marionette	INFO	Listening on port 55337
+1636992763055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 1197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1636993078398&ver1=2.2.3&qid=83233313f553333313f513430313&rnd=v6zxnqrqg06c&cid=1041 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 1214 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 1791 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 1075 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 2136 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 7481 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 4034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 6306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 4526 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 3717 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 3871 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 378 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 5626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 2411 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 7142 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 2437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 6644 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 913 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IDpL2rJiZrNY3rYqo4eIGDY6phXtx-GzYRENHMIWWlE.js line 1 > eval line 3536 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfe3481200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfe27b1ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfe27b1c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfdf739ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfdf7aa580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfdf7aa3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfe3481200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfe27b1ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfe27b1c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfdf739ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfdf7aa580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfdf7aa3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfe3481200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 41392, MediaDecoderStateMachine #1] WARNING: 1bfe27b1ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1062"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1062:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:635:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:744:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1062, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1161:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1386:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1109:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:638:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:744:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1161, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1161))
+1637085705670	geckodriver	INFO	Listening on 127.0.0.1:53258
+1637085709068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilenh92nk"
+1637085709934	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilenh92nk\\search.json.mozlz4", (void 0)))
+1637085712069	Marionette	INFO	Listening on port 53266
+1637085712232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1637086119249	Marionette	INFO	Stopped listening on port 53266
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

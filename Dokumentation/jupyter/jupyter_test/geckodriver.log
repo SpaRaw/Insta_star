@@ -1,0 +1,152 @@
+1637086192196	geckodriver	INFO	Listening on 127.0.0.1:53652
+1637086195172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile2nNOWJ"
+1637086195559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile2nNOWJ\\search.json.mozlz4", (void 0)))
+1637086197238	Marionette	INFO	Listening on port 53661
+1637086197362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637086247022	Marionette	INFO	Stopped listening on port 53661
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oid 0)))
+1637086245158	Marionette	INFO	Listening on port 53748
+1637086245603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637086297868	Marionette	INFO	Stopped listening on port 53748
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileQSA2gk\\search.json.mozlz4", (void 0)))
+1637086292045	Marionette	INFO	Listening on port 53835
+1637086292449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Child 15000, MediaDecoderStateMachine #1] WARNING: 217820caac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #1] WARNING: 21781be1900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 21781be1900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 217820caac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 21781be1900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 217820caac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 21781be1900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 217820caac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 217f87ca580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 217f87ca580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 21781be1900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 217820caac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/79c3a28863c8.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 217f87ca580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 21781be1900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15000, MediaDecoderStateMachine #3] WARNING: 217820caac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.windowGlobal4294967304/pagestyle29 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+[Child 15000, MediaDecoderStateMachine #4] WARNING: 217f9855740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1637090107882	Marionette	INFO	Stopped listening on port 53835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637172112766	geckodriver	INFO	Listening on 127.0.0.1:59482
+1637172115841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilejFicVz"
+1637172116909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilejFicVz\\search.json.mozlz4", (void 0)))
+1637172119136	Marionette	INFO	Listening on port 59491
+1637172119175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637172355868	Marionette	INFO	Stopped listening on port 59491
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637172378827	geckodriver	INFO	Listening on 127.0.0.1:59606
+1637172381878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileHRD538"
+1637172382333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileHRD538\\search.json.mozlz4", (void 0)))
+1637172384113	Marionette	INFO	Listening on port 59614
+1637172384546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 2908, MediaDecoderStateMachine #1] WARNING: 2941e87a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637174181783	Marionette	INFO	Stopped listening on port 59614
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637174470522	geckodriver	INFO	Listening on 127.0.0.1:60442
+1637174473582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileyVj9Ns"
+1637174473936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileyVj9Ns\\search.json.mozlz4", (void 0)))
+1637174477286	Marionette	INFO	Listening on port 60450
+1637174477779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637174569404	Marionette	INFO	Stopped listening on port 60450
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637174586645	geckodriver	INFO	Listening on 127.0.0.1:60541
+1637174589706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileSTvrwm"
+1637174590076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileSTvrwm\\search.json.mozlz4", (void 0)))
+1637174591702	Marionette	INFO	Listening on port 60549
+1637174591747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637174615605	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1637174681123	Marionette	INFO	Stopped listening on port 60549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
