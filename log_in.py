@@ -1,16 +1,16 @@
 from selenium import webdriver
 from time import sleep
 
-#user = "instandbot"
-#pwd = "aiLKq0218,.q&"
+user = "instandbot"
+pwd = "aiLKq0218,.q&"
 
 def follow_hashtag(browser, hashtag):
     browser.get("https://www.instagram.com/explore/tags/"+hashtag+"/")
     posts = browser.find_elements_by_xpath("//ul[@class='Ln-UN' and position()<=12]")
 
 
-user= "alphabot44"
-pwd="Y$JJErhrG4u{H2,"
+#user= "alphabot44"
+#pwd="Y$JJErhrG4u{H2,"
 
 browser = webdriver.Firefox()
 

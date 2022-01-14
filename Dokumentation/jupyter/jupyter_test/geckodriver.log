@@ -375,3 +375,443 @@ JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__buffe
 1637566094602	Marionette	INFO	Stopped listening on port 64067
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637602716915	geckodriver	INFO	Listening on 127.0.0.1:50423
+1637602719989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilefRgAme"
+1637602720759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilefRgAme\\search.json.mozlz4", (void 0)))
+1637602722892	Marionette	INFO	Listening on port 50431
+1637602723157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1637604478889	Marionette	INFO	Stopped listening on port 50431
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638301224983	geckodriver	INFO	Listening on 127.0.0.1:57096
+1638301228076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofile58cwAD"
+1638301228448	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofile58cwAD\\search.json.mozlz4", (void 0)))
+1638301230188	Marionette	INFO	Listening on port 57105
+1638301230272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11920, MediaDecoderStateMachine #1] WARNING: 1ceec40a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/80c2dbd12d18.js, line 42: OZ_NETWORK: Network failure.
+[Child 11920, MediaDecoderStateMachine #1] WARNING: 1cedd186f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11920, MediaDecoderStateMachine #1] WARNING: 1cedbc29ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: Error in body stream
+[Child 11920, MediaDecoderStateMachine #1] WARNING: 1cef1c219e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+[Child 11920, MediaDecoderStateMachine #1] WARNING: 1cee9b8bba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11920, MediaDecoderStateMachine #1] WARNING: 1cef3cdfc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/80c2dbd12d18.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 32: cancelled: operation is cancelled
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/80c2dbd12d18.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/80c2dbd12d18.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 11920, MediaDecoderStateMachine #1] WARNING: 1ceeb1d4c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 11920, MediaDecoderStateMachine #1] WARNING: 1ceeb1d4c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1638301403167	Marionette	INFO	Stopped listening on port 57105
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1638301406345	geckodriver	INFO	Listening on 127.0.0.1:50011
+1638301409422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileQ6Hi3D"
+1638301409897	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileQ6Hi3D\\search.json.mozlz4", (void 0)))
+1638301411723	Marionette	INFO	Listening on port 50020
+1638301412083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/02d4939a30bd.js, line 370: Error: failed to get canvas context
+1638301515661	Marionette	INFO	Stopped listening on port 50020
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638301523966	geckodriver	INFO	Listening on 127.0.0.1:50107
+1638301527051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileNz201L"
+1638301527414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileNz201L\\search.json.mozlz4", (void 0)))
+1638301529258	Marionette	INFO	Listening on port 50115
+1638301529723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1638301585286	Marionette	INFO	Stopped listening on port 50115
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638301598687	geckodriver	INFO	Listening on 127.0.0.1:50200
+1638301601765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileyZHziz"
+1638301602132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileyZHziz\\search.json.mozlz4", (void 0)))
+1638301603875	Marionette	INFO	Listening on port 50208
+1638301603954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1638301689718	Marionette	INFO	Stopped listening on port 50208
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638301692535	geckodriver	INFO	Listening on 127.0.0.1:50292
+1638301695598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileH4tO19"
+1638301695968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileH4tO19\\search.json.mozlz4", (void 0)))
+1638301697710	Marionette	INFO	Listening on port 50300
+1638301697782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1638341329177	Marionette	INFO	Stopped listening on port 50300
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1640711684057	geckodriver	INFO	Listening on 127.0.0.1:52489
+1640711687116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilerRVw8T"
+1640711687575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilerRVw8T\\search.json.mozlz4", (void 0)))
+1640711688983	Marionette	INFO	Listening on port 52497
+1640711689211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640711730444	Marionette	INFO	Stopped listening on port 52497
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oid 0)))
+1640711726741	Marionette	INFO	Listening on port 52577
+1640711727000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b5e223c71c50.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1640712021279	Marionette	INFO	Stopped listening on port 52577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640712024258	geckodriver	INFO	Listening on 127.0.0.1:52669
+1640712027333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileSkANTU"
+1640712027641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileSkANTU\\search.json.mozlz4", (void 0)))
+1640712028965	Marionette	INFO	Listening on port 52677
+1640712029365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 64252, MediaDecoderStateMachine #1] WARNING: 1e3874c53c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1640712057426	Marionette	INFO	Stopped listening on port 52677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1640712375284	geckodriver	INFO	Listening on 127.0.0.1:53204
+1640712378386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilex60ey6"
+1640712378671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilex60ey6\\search.json.mozlz4", (void 0)))
+1640712379911	Marionette	INFO	Listening on port 53212
+1640712380416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b5e223c71c50.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+1640714091069	Marionette	INFO	Stopped listening on port 53212
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640714741948	geckodriver	INFO	Listening on 127.0.0.1:60742
+1640714745011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileOVzQp2"
+1640714745754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileOVzQp2\\search.json.mozlz4", (void 0)))
+1640714747383	Marionette	INFO	Listening on port 60751
+1640714747698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640715638339	Marionette	INFO	Stopped listening on port 60751
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1640715712751	geckodriver	INFO	Listening on 127.0.0.1:61419
+1640715715803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileRxnDtC"
+1640715716266	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileRxnDtC\\search.json.mozlz4", (void 0)))
+1640715717625	Marionette	INFO	Listening on port 61428
+1640715717858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640716608879	Marionette	INFO	Stopped listening on port 61428
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641751266590	geckodriver	INFO	Listening on 127.0.0.1:50085
+1641751269646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileg4XHHG"
+1641751270641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileg4XHHG\\search.json.mozlz4", (void 0)))
+1641751272240	Marionette	INFO	Listening on port 50093
+1641751272318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Error in body stream
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c238d32e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c22fde900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c227633c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c266ea9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: Error in body stream
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c2aef8040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c22f9e200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c17488ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c22fdef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c14a27ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c17366120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c210e14a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c142523c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c142523c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c22f9e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c22f9e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c0da1b400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c0da1b400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c22f9e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c1704cba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c170a8e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c23b8e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c23b8e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c0daa0000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c0daa0000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c0daa3c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c0daa3c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c14abf000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c14abf000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c23b8e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c210e1820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c1704c040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c170494a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: 27c170494a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c22f88400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12300, MediaDecoderStateMachine #1] WARNING: Decoder=27c22f88400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c170494a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c2247e580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c2247e580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: Decoder=27c224d1c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12300, MediaDecoderStateMachine #2] WARNING: Decoder=27c224d1c00 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c2247e580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c22f9e820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704cf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704cf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: Decoder=27c224cb400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12300, MediaDecoderStateMachine #2] WARNING: Decoder=27c224cb400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704cf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c21cfee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c23fcc200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c17da5d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c170499e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c170499e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a69ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a27e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a27e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a27e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c21cfee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c14a27e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c21cfee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c1704ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12300, MediaDecoderStateMachine #2] WARNING: 27c255d83c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641752678586	Marionette	INFO	Stopped listening on port 50093
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileoSjk7B\\search.json.mozlz4", (void 0)))
+1641752528634	Marionette	INFO	Listening on port 50892
+1641752528755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 13988, MediaDecoderStateMachine #1] WARNING: Decoder=21968fd5800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 13988, MediaDecoderStateMachine #1] WARNING: Decoder=21968fd5800 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+[Child 13988, MediaDecoderStateMachine #1] WARNING: Decoder=2195dbc2000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 13988, MediaDecoderStateMachine #1] WARNING: Decoder=2195dbc2000 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+1641752797897	Marionette	INFO	Stopped listening on port 50892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641826638834	geckodriver	INFO	Listening on 127.0.0.1:50486
+1641826641882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileAUTu2x"
+1641826642955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileAUTu2x\\search.json.mozlz4", (void 0)))
+1641826644908	Marionette	INFO	Listening on port 50494
+1641826645052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 14828, MediaDecoderStateMachine #1] WARNING: Decoder=204e96d3400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 14828, MediaDecoderStateMachine #1] WARNING: Decoder=204e96d3400 Decode error: NS_ERROR_DOM_MEDIA_DEMUXER_ERR (0x806e000c) - virtual RefPtr<MP4Demuxer::InitPromise> __cdecl mozilla::MP4Demuxer::Init(void): No MP4 audio () or video () tracks: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3562
+1641826790931	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/94IealOMwR7kxf6jS-jGG0uIjJYzj28NIr5mtVGcdhU.js line 1 > eval line 3070 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/94IealOMwR7kxf6jS-jGG0uIjJYzj28NIr5mtVGcdhU.js line 1 > eval line 3168 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/94IealOMwR7kxf6jS-jGG0uIjJYzj28NIr5mtVGcdhU.js line 1 > eval line 6534 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/94IealOMwR7kxf6jS-jGG0uIjJYzj28NIr5mtVGcdhU.js line 1 > eval line 2614 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1641826889662	Marionette	INFO	Stopped listening on port 50494
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1641833621164	geckodriver	INFO	Listening on 127.0.0.1:59339
+1641833624246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofileab2B3F"
+1641833624837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofileab2B3F\\search.json.mozlz4", (void 0)))
+1641833626398	Marionette	INFO	Listening on port 59347
+1641833626452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:806:3
+
+1641833738688	Marionette	INFO	Stopped listening on port 59347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+oid 0)))
+1641833738739	Marionette	INFO	Listening on port 59437
+1641833738881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641854041596	Marionette	INFO	Stopped listening on port 59437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 13488, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390159,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390115,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390115,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390115,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390115,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390115,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390115,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390115,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39014C,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1641923949371	geckodriver	INFO	Listening on 127.0.0.1:63535
+1641923952397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KORBIN~1\\AppData\\Local\\Temp\\rust_mozprofilec6K8nt"
+1641923952885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Korbinian\\AppData\\Local\\Temp\\rust_mozprofilec6K8nt\\search.json.mozlz4", (void 0)))
+1641923954650	Marionette	INFO	Listening on port 63543
+1641923955097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27feec29ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27feec29ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: Error in body stream
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27ffc136900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27ffaa38200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27f855fa3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27ffaa74200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27fefed7ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27fefed7ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b9c785ac1c72.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/a33dfcba3ca2.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27ff12bbe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27ff12bbe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27fefe54ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 6568, MediaDecoderStateMachine #1] WARNING: 27fefe54ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641924236698	Marionette	INFO	Stopped listening on port 63543
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
