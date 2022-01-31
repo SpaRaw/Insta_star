@@ -13,11 +13,11 @@ class instand():
     def __init__(self):
         self.keyboard = Controller()
 
-        #self.user = "instandbot"
-        #self.pwd = "aiLKq0218,.q&"
+        self.user = "instandbot"
+        self.pwd = "aiLKq0218,.q&"
 
-        self.user = "alphabot44"
-        self.pwd = "Y$JJErhrG4u{H2,"
+        #self.user = "alphabot44"
+        #self.pwd = "Y$JJErhrG4u{H2,"
 
     def automate(self):
         #nötige Initialisierungen
